@@ -1,0 +1,10 @@
+syntax: glob
+bin
+obj
+*.sln
+*.suo
+*.settings
+*.csproj.user
+*.orig
+.DS_Store
+

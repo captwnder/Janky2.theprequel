@@ -1,0 +1,44 @@
+* Fix the bugs that probably exist in the collision detection
+
+I haven't fully stress tested all of the collision detection yet, so I'm guessing there's a few bugs here and there.
+
+* Develop the UI stuff into something usable
+
+Right now there's the beginnings of OtterUI, which is used for menu systems driven by controllers.  At some point I'll
+add support or mouse and keyboard type stuff as well.
+
+* Make encrypted zip assets work more smoothly
+
+Eventually I want Otter to automatically pack up all your assets into a secure zip file to read from.  This isnt 100%
+tamper proof, but I'm more concerned about reducing the number of files just laying about in a game's directory.
+
+* Hide the dll files in another folder
+
+I still can't figure this out, but my goal is to eventually have the structure of a built Otter game be just the exe with
+all of the dll files and assets tucked away in sub folders... this seems pretty friggin' tough though.
+
+* Better solution for reducing draw calls for big sets of images and stuff
+
+A lot of the rendering might have to be overhauled for automatic batching of rendering, but I might add something similar
+to XNA/Monogame's SpriteBatch class to let users manage batching of their own rendering.
+
+* Mac and Linix Support
+
+Better Mac and Linux support.  I know it's possible, but I am very inexperienced with Mac and Linux systems.
+
+* Particles
+
+Some sort of particle system.  I usually don't use particle systems at all, but I know that a lot of people like them
+so I'll probably get around to adding some sort of batched particle system at some point.
+
+* Pixelmask Collisions
+
+Loading collision data based on textures for games that absolutely need per pixel collision.
+
+* Auto Tiling
+
+I want to get some form of auto tiling in for those game jam scenarios.
+
+* 1.0 Release
+
+This is all leading up to the 1.0 release of Otter, yahoo!

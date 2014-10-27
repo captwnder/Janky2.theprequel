@@ -1,0 +1,16 @@
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\Assets\otterlogo.png
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\libsndfile-1.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\openal32.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\Assets\CONSOLA.TTF
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\csfml-audio-2.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\csfml-graphics-2.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\csfml-window-2.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\Otter.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\Otter.pdb
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\Ionic.Zip.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\bin\Debug\sfmlnet-window-2.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\obj\x86\Debug\Otter.csprojResolveAssemblyReference.cache
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\obj\x86\Debug\Otter.dll
+C:\Users\jasonb.TASPCO\Source\Workspaces\Janky2.theprequel\Frameworks\Otter\obj\x86\Debug\Otter.pdb
